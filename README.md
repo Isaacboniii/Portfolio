@@ -1,4 +1,4 @@
-# Portfólio de Isaac Boni
+# Portfólio de Isaac Bonifacio
 
 Este é o repositório do meu portfólio pessoal, onde apresento meus projetos e habilidades em desenvolvimento web.
 
